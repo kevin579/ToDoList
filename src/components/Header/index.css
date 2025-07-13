@@ -1,0 +1,27 @@
+div.header{
+    border-bottom: 1px solid black;
+    line-height: 40px;
+    padding:10px 15px;
+    background-color: rgb(212, 236, 212);
+}
+
+div.header input{
+    width:300px;
+    margin:10px;
+    height:25px;
+    border-color:rgb(64, 172, 64);
+
+}
+
+
+div.header button{
+    width:140px;
+    height:30px;
+    background-color: rgb(170, 242, 170);
+    border-color:rgb(64, 172, 64);
+    border-radius: 3px;
+}
+
+div.header button:hover{
+    background-color: lightgreen;
+}

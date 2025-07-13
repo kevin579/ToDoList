@@ -1,0 +1,19 @@
+*{
+    margin:0;
+}
+
+div.container{
+    margin:auto;
+    width:600px;
+    margin-top: 100px;
+}
+
+div.wraper{
+    border:1px solid black;
+    font-size: 18px;
+}
+
+
+
+
+
